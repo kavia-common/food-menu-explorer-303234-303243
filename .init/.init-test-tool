@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/food-menu-explorer-303234-303243/food_menu_backend"
+}
